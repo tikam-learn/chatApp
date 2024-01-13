@@ -1,2 +1,5 @@
 typing option
 themes-light and dark
+
+colors
+video-calls
