@@ -5,6 +5,8 @@ video-calls
 
 responsive
 
+payment options-send money
+
 payment options-receive money
 
 upi-options
