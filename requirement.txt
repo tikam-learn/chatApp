@@ -6,3 +6,5 @@ video-calls
 responsive
 
 payment options-receive money
+
+phone pay
